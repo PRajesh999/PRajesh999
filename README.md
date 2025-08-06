@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Narasimha Rajesh Pulugurtha
 
-🎓 Computer Science Student |
-
+🎓 Computer Science Student
 🚀 MERN Stack Enthusiast | 🌐 Building real-world web apps 
-
 - 💡 Currently working on: **Food Donation Management Application**
 - 🤝 Open to collaboration on open-source or internship opportunities
 - 🛠️ Love working on meaningful, impactful projects
@@ -52,11 +50,11 @@
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
+<div align="left"> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:your.email@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://yourportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfolio"/> </a>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to)](https://yourportfolio.com)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<a href="https://github.com/PRajesh999" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://leetcode.com/your-profile" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a> <a href="https://www.hackerrank.com/your-profile" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> <a href="https://codeforces.com/profile/your-profile" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/> </a> </div>
 
 ---
 
