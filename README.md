@@ -35,21 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRajesh999&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=PRajesh999&theme=tokyonight)
-
-![GitHub Streak – Tokyo Night](https://streak-stats.demolab.com?user=PRajesh999&theme=tokyonight)
-
-![GitHub Streak – Dracula](https://streak-stats.demolab.com?user=PRajesh999&theme=dracula)
-
-![GitHub Streak – High Contrast](https://streak-stats.demolab.com?user=PRajesh999&theme=highcontrast)
-
-![GitHub Streak – Dark](https://streak-stats.demolab.com?user=PRajesh999&theme=dark)
-
-
 ## 🚀 Featured Projects
 
 - 🔥 **Digitizing Health Center Appointments** – ServiceNow Challenge-based full-stack app
@@ -65,10 +50,9 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to)](https://yourportfolio.com)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-## 📜 Quote
 
-> "Code is not just written, it’s crafted — like art with logic."  
-> – Narasimha Rajesh Pulugurtha
+## 📈 GitHub Stats
 
----
-
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRajesh999&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=PRajesh999&theme=tokyonight)
