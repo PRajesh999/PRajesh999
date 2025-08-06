@@ -10,67 +10,18 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML" />&nbsp;
-<strong>HTML5</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS" />&nbsp;
-<strong>CSS3</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />&nbsp;
-<strong>JavaScript</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />&nbsp;
-<strong>React</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" />&nbsp;
-<strong>Node.js</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express" />&nbsp;
-<strong>Express</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" />&nbsp;
-<strong>MongoDB</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" alt="Firebase" />&nbsp;
-<strong>Firebase</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />&nbsp;
-<strong>Git</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />&nbsp;
-<strong>GitHub</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code" />&nbsp;
-<strong>VS Code</strong>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" alt="Postman" />&nbsp;
-<strong>Postman</strong>
-
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
 
 ---
