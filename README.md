@@ -37,9 +37,9 @@
 
 ## 📈 GitHub Stats
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarasimhaRajeshPulugurtha&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NarasimhaRajeshPulugurtha&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=NarasimhaRajeshPulugurtha&theme=tokyonight)
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRajesh999&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=PRajesh999&theme=tokyonight)
 
 ---
 
@@ -62,9 +62,9 @@
 
 ## 🏆 Achievements & Extras
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NarasimhaRajeshPulugurtha&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PRajesh999&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NarasimhaRajeshPulugurtha&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PRajesh999&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
