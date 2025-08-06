@@ -52,7 +52,28 @@
 
 ## 📫 Connect With Me
 **Social Media & Portfolio**
-<table> <tr> <td align="center" width="96"> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /><br><sub><b>LinkedIn</b></sub> </a> </td> <td align="center" width="96"> <a href="mailto:your.email@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" /><br><sub><b>Gmail</b></sub> </a> </td> <td align="center" width="96"> <a href="https://yourportfolio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Portfolio" /><br><sub><b>Portfolio</b></sub> </a> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/your-link" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /><br><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+
+    <td align="center" width="96">
+      <a href="mailto:your.email@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" alt="Gmail" /><br><sub><b>Gmail</b></sub>
+      </a>
+    </td>
+
+    <td align="center" width="96">
+      <a href="https://yourportfolio.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Portfolio" /><br><sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 **Coding Platforms**
 <table>
