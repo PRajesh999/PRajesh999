@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Narasimha Rajesh Pulugurtha
 
-🎓 Computer Science Student
+🎓 Computer Science Student |
 🚀 MERN Stack Enthusiast | 🌐 Building real-world web apps 
 - 💡 Currently working on: **Food Donation Management Application**
 - 🤝 Open to collaboration on open-source or internship opportunities
@@ -50,7 +50,55 @@
 
 ---
 
-<div align="center"> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /> </a>&nbsp;&nbsp; <a href="mailto:your.email@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email" /> </a>&nbsp;&nbsp; <a href="https://yourportfolio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Portfolio" /> </a>&nbsp;&nbsp; <a href="https://github.com/PRajesh999" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /> </a>&nbsp;&nbsp; <a href="https://leetcode.com/your-profile" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" /> </a>&nbsp;&nbsp; <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" /> </a>&nbsp;&nbsp; <a href="https://www.hackerrank.com/your-profile" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank" /> </a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/your-profile" target="_blank"> <img src="https://sta.codeforces.com/s/96999/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces" /> </a> </div>
+## 📫 Connect With Me
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/your-link" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /><br><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:your.email@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" /><br><sub><b>Gmail</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://yourportfolio.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Portfolio" /><br><sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://leetcode.com/your-id" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" /><br><sub><b>LeetCode</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://auth.geeksforgeeks.org/user/your-id" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GFG" /><br><sub><b>GFG</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.hackerrank.com/your-id" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank" /><br><sub><b>HackerRank</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.codechef.com/users/your-id" target="_blank">
+        <img src="https://cdn.codechef.com/images/cc-logo.svg" width="40" alt="CodeChef" /><br><sub><b>CodeChef</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://codeforces.com/profile/your-id" target="_blank">
+        <img src="https://sta.codeforces.com/s/96999/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces" /><br><sub><b>Codeforces</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
