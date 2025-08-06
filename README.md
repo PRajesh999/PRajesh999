@@ -1,42 +1,72 @@
 # 👋 Hi there, I'm Narasimha Rajesh Pulugurtha
 
-### 🌱 Frontend Developer | React | JavaScript | HTML | CSS  
+### 🌱 Frontend Developer | MERN Stack Enthusiast  
 🎓 Computer Science Student | Aspiring Full-Stack Developer  
-🚀 Building real-world web apps using MERN stack  
-💡 Currently working on: Digitizing Health Center Appointments  
+🚀 Currently working on: **Digitizing Health Center Appointments**  
+🧠 Passionate about building real-world web apps that solve real problems
 
 ---
 
-## 🔧 Skills
+## 🛠️ Tech Stack & Tools
 
-- 🚀 Frontend: HTML, CSS, JavaScript, React
-- 🧠 Backend: Node.js, Express
-- 💾 Database: MongoDB, Firebase
-- 🔧 Tools: Git, GitHub, VS Code, Postman
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRajesh999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=radical)
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarasimhaRajeshPulugurtha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NarasimhaRajeshPulugurtha&layout=compact&theme=radical)
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🧠 Ongoing Projects
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+- 🚀 Digitizing Health Center Appointments
+- 🗃️ Infrastructure Tracker using MERN Stack
+- 🍽️ Food Donation System
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+---
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- 📧 Email: yourname@example.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=devdotto)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+---
+
+## 📌 Fun Facts
+
+- 🎯 I love solving real-life problems through code
+- 📖 Always learning new technologies & improving skills
+- ⚡ Fun fact: I drink code for breakfast ☕💻
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!-- ACTIVITY GRAPH (Optional, but cool) -->
+[![Rajesh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NarasimhaRajeshPulugurtha&theme=tokyo-night)](https://github.com/NarasimhaRajeshPulugurtha)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NarasimhaRajeshPulugurtha&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NarasimhaRajeshPulugurtha&theme=radical)
+
+---
+
+> ⚡ "Code is not just written, it's crafted — like art with logic."
 
