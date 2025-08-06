@@ -30,7 +30,6 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NarasimhaRajeshPulugurtha&theme=tokyonight)
 
 
 ## 📊 GitHub Stats
