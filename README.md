@@ -1,13 +1,17 @@
 # 👋 Hi there, I'm Narasimha Rajesh Pulugurtha
 
 🎓 Computer Science Student |
-🚀 MERN Stack Enthusiast | 🌐 Building real-world web apps  
+
+🚀 MERN Stack Enthusiast | 🌐 Building real-world web apps 
+
 - 💡 Currently working on: **Food Donation Management Application**
 - 🤝 Open to collaboration on open-source or internship opportunities
 - 🛠️ Love working on meaningful, impactful projects
+
 ---
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
+
 **Programming Languages**
 <table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /><br><sub><b>C</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /><br><sub><b>C++</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br><sub><b>Python</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /><br><sub><b>Java</b></sub> </td> </tr> </table>
 
@@ -24,7 +28,8 @@
 <table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" /><br><sub><b>MongoDB</b></sub> </td> </tr> </table>
 
 **Tools & Platforms**
-<table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br><sub><b>Git</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /><br><sub><b>GitHub</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /><br><sub><b>VS Code</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" /><br><sub><b>Postman</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /><br><sub><b>Firebase</b></sub> </td> </tr> </table>
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br><sub><b>Git</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /><br><sub><b>GitHub</b></sub> </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /><br><sub><b>VS Code</b></sub> </td> <td align="center" width="96">
+
 ---
 
 ## 🚀 Featured Projects
@@ -34,6 +39,7 @@
 - 🏗️ **Infrastructure Tracker** – A React-based system for tracking and managing infrastructure issues and maintenance records in real-time across multiple locations.
 
 ---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
