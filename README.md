@@ -46,27 +46,8 @@
 
 ---
 
-## 📌 Fun Facts
-
-- 🎯 I love solving real-life problems through code
-- 📖 Always learning new technologies & improving skills
-- ⚡ Fun fact: I drink code for breakfast ☕💻
-
----
-
-## ⚡ Recent GitHub Activity
-
-<!-- ACTIVITY GRAPH (Optional, but cool) -->
-[![Rajesh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PRajesh999&theme=tokyo-night)](https://github.com/PRajesh999)
-
----
-
 ## 🏆 GitHub Achievements
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRajesh999&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=PRajesh999&theme=radical)
 
----
-
-> ⚡ "Code is not just written, it's crafted — like art with logic."
 
