@@ -58,16 +58,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to)](https://yourportfolio.com)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
----
-
-## 🏆 Achievements & Extras
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PRajesh999&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PRajesh999&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📜 Quote
 
 > "Code is not just written, it’s crafted — like art with logic."  
