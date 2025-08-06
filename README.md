@@ -50,45 +50,11 @@
 
 ---
 
-## 📫 Connect With Me
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/><br><sub><b>LinkedIn</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail"/><br><sub><b>Gmail</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Portfolio"/><br><sub><b>Portfolio</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/your-id" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/><br><sub><b>LeetCode</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://auth.geeksforgeeks.org/user/your-id" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GFG"/><br><sub><b>GFG</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/your-id" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank"/><br><sub><b>HackerRank</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/your-id" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="40" alt="CodeChef"/><br><sub><b>CodeChef</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://codeforces.com/profile/your-id" target="_blank">
-    <img src="https://sta.codeforces.com/s/96999/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/><br><sub><b>Codeforces</b></sub>
-  </a>
-</p>
-
-
+📫 Connect With Me
+🌐 Social Media & Portfolio
+<table> <tr> <td align="center" width="96"> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /><br><sub><b>LinkedIn</b></sub> </a> </td> <td align="center" width="96"> <a href="mailto:your.email@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" /><br><sub><b>Gmail</b></sub> </a> </td> <td align="center" width="96"> <a href="https://yourportfolio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Portfolio" /><br><sub><b>Portfolio</b></sub> </a> </td> </tr> </table>
+💻 Coding Platforms
+<table> <tr> <td align="center" width="96"> <a href="https://github.com/PRajesh999" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /><br><sub><b>GitHub</b></sub> </a> </td> <td align="center" width="96"> <a href="https://leetcode.com/your-id" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" /><br><sub><b>LeetCode</b></sub> </a> </td> <td align="center" width="96"> <a href="https://auth.geeksforgeeks.org/user/your-id" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" /><br><sub><b>GFG</b></sub> </a> </td> <td align="center" width="96"> <a href="https://www.hackerrank.com/your-id" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" alt="HackerRank" /><br><sub><b>HackerRank</b></sub> </a> </td> </tr> <tr> <td align="center" width="96"> <a href="https://www.codechef.com/users/your-id" target="_blank"> <img src="https://cdn.codechef.com/images/cc-logo.svg" width="40" alt="CodeChef" /><br><sub><b>CodeChef</b></sub> </a> </td> <td align="center" width="96"> <a href="https://codeforces.com/profile/your-id" target="_blank"> <img src="https://sta.codeforces.com/s/96999/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces" /><br><sub><b>Codeforces</b></sub> </a> </td> </tr> </table>
 
 ---
 
