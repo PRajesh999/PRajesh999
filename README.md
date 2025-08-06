@@ -43,6 +43,9 @@
 
 ---
 
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRajesh999&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=radical)
+
 ## 🚀 Featured Projects
 
 - 🔥 **Digitizing Health Center Appointments** – ServiceNow Challenge-based full-stack app
