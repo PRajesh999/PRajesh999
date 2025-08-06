@@ -57,14 +57,14 @@
 ## ⚡ Recent GitHub Activity
 
 <!-- ACTIVITY GRAPH (Optional, but cool) -->
-[![Rajesh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NarasimhaRajeshPulugurtha&theme=tokyo-night)](https://github.com/NarasimhaRajeshPulugurtha)
+[![Rajesh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PRajesh999&theme=tokyo-night)](https://github.com/PRajesh999)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NarasimhaRajeshPulugurtha&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=NarasimhaRajeshPulugurtha&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRajesh999&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PRajesh999&theme=radical)
 
 ---
 
