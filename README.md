@@ -1,18 +1,10 @@
 # 👋 Hi there, I'm Narasimha Rajesh Pulugurtha
 
-🎓 Computer Science Student | 💻 Frontend Developer  
+🎓 Computer Science Student
 🚀 MERN Stack Enthusiast | 🌐 Building real-world web apps  
-💡 Currently working on: **Digitizing Health Center Appointments**
-
----
-
-## 💡 About Me
-
-- 🎯 Passionate about crafting user-friendly web applications
-- 🌱 Currently learning **TypeScript**, **Next.js**, and **Docker**
-- 🛠️ Love working on meaningful, impactful projects
-- 🤝 Open to collaboration on open-source or internship opportunities
-- 📍 Based in India
+💡 Currently working on: **Food Donation Management Application**
+🤝 Open to collaboration on open-source or internship opportunities
+🛠️ Love working on meaningful, impactful projects
 
 ---
 
@@ -37,10 +29,9 @@
 
 ## 🚀 Featured Projects
 
-- 🔥 **Digitizing Health Center Appointments** – ServiceNow Challenge-based full-stack app
-- 🏗️ **Infrastructure Tracker** – Built with React, MongoDB, Next.js
-- 🍽️ **Food Donation Management System** – MERN stack project to reduce food waste
-- 🚘 **World Wide Cars** – Car showcase & management site with filters, cart, and favorite list
+- 🍽️ **Food Donation Management** – MERN stack web application to streamline food donations by managing donors, recipients, and distribution efficiently.
+- 🚘 **World Wide Cars** – A dynamic car showcase platform featuring global car brands, filtering options, and interactive UI for browsing, carting, and purchasing vehicles.
+- 🏗️ **Infrastructure Tracker** – A React-based system for tracking and managing infrastructure issues and maintenance records in real-time across multiple locations.
 
 ---
 
