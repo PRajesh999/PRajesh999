@@ -41,10 +41,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=PRajesh999&theme=tokyonight)
 
----
+![GitHub Streak – Tokyo Night](https://streak-stats.demolab.com?user=PRajesh999&theme=tokyonight)
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRajesh999&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRajesh999&layout=compact&theme=radical)
+![GitHub Streak – Dracula](https://streak-stats.demolab.com?user=PRajesh999&theme=dracula)
+
+![GitHub Streak – High Contrast](https://streak-stats.demolab.com?user=PRajesh999&theme=highcontrast)
+
+![GitHub Streak – Dark](https://streak-stats.demolab.com?user=PRajesh999&theme=dark)
+
 
 ## 🚀 Featured Projects
 
